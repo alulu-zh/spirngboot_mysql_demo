@@ -1,0 +1,3 @@
+2020-05-09 19:14:51 [main] WARN  o.s.data.rest.webmvc.halbrowser.HalBrowser - ---
+2020-05-09 19:14:51 [main] WARN  o.s.data.rest.webmvc.halbrowser.HalBrowser - Spring Data REST HAL Browser is deprecated! Prefer the HAL Explorer (artifactId: spring-data-rest-hal-explorer)!
+2020-05-09 19:14:51 [main] WARN  o.s.data.rest.webmvc.halbrowser.HalBrowser - ---
